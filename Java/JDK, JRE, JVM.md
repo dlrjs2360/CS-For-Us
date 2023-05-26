@@ -12,7 +12,7 @@
 
 JDK를 이용해 프로그램을 개발하고, JRE에 의해 JVM 상에서 프로그램이 구동된다. JDK는 JRE를, JRE는 JDK를 포함한다.
 
-> JDK ⊃ JRE ⊃ JDK
+> JDK ⊃ JRE ⊃ JVM
 
 <BR>
 

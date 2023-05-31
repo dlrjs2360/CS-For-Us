@@ -12,7 +12,7 @@
 
 JDK를 이용해 프로그램을 개발하고, JRE에 의해 JVM 상에서 프로그램이 구동된다. JDK는 JRE를, JRE는 JDK를 포함한다.
 
-> JDK ⊃ JRE ⊃ JDK
+> JDK ⊃ JRE ⊃ JVM
 
 <BR>
 
@@ -58,7 +58,7 @@ JDK를 이용해 프로그램을 개발하고, JRE에 의해 JVM 상에서 프�
 <BR>
 
 
-[JVM의 자세한 구조 알아보기](링크)
+[JVM의 자세한 구조 알아보기](https://github.com/dlrjs2360/CS-For-Us/blob/master/Java/JVM%EC%9D%98%20%EB%8F%99%EC%9E%91%20%EB%B0%A9%EC%8B%9D%EA%B3%BC%20%EA%B5%AC%EC%A1%B0.md)
 
 ---
 

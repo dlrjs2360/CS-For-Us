@@ -53,7 +53,7 @@ Sweep 후 분산된 객체들을 힙 영역의 시작 주소로 모아 압축한
 
 참고로 GC Root는 외부에서 힙에 대한 레퍼런스를 갖고 있는 변수나 오브젝트를 말한다. 실행 중인 스레드, 정적 변수, 로컬 변수, JNI 레퍼런스 등이 해당될 수 있다.
 
-[JNI는 뭐야! 라고 생각했다면](링크)
+[JNI는 뭐야! 라고 생각했다면](https://github.com/dlrjs2360/CS-For-Us/blob/master/Etc/JNI%20(Java%20Native%20Interface).md)
 
 ---
 

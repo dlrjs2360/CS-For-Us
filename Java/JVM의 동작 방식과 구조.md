@@ -59,7 +59,7 @@ JVM이 운영체제에게 할당 받은 메모리 영역으로, 데이터 저장
 #### 2.1.5 Native Method Stack
 JNI(Java Natice Interface)를 통해 호출한 JAVA 외의 언어로 작성된 코드를 수행하기 위한 스택이다.
 
-[JNI는 뭐야! 라고 생각했다면](링크)
+[JNI는 뭐야! 라고 생각했다면](https://github.com/dlrjs2360/CS-For-Us/blob/master/Etc/JNI%20(Java%20Native%20Interface).md)
 
 
 ---
@@ -116,7 +116,7 @@ JNI(Java Natice Interface)를 통해 호출한 JAVA 외의 언어로 작성된 �
 ### 🦜 2.3 가비지 컬렉터 (Garbage Collector, GC)
 내용이 길어 다른 문서로 이사갔다.
 
-자세한 내용은 [가비지 컬렉션(GC) 공부하러 가기](링크) 에서 알아보자!
+자세한 내용은 [가비지 컬렉션(GC) 공부하러 가기](https://github.com/dlrjs2360/CS-For-Us/blob/master/Java/%EA%B0%80%EB%B9%84%EC%A7%80%20%EC%BB%AC%EB%A0%89%EC%85%98%20(GC).md) 에서 알아보자!
 
 ---
 
@@ -135,7 +135,7 @@ JNI(Java Natice Interface)를 통해 호출한 JAVA 외의 언어로 작성된 �
 
 
 
-[+) 인터프리터 언어 vs 컴파일러 언어의 차이점에 대해 알아보기](링크)
+[+) 인터프리터 언어 vs 컴파일러 언어의 차이점에 대해 알아보기](https://github.com/dlrjs2360/CS-For-Us/blob/master/Etc/%EC%9D%B8%ED%84%B0%ED%94%84%EB%A6%AC%ED%84%B0%20%EC%96%B8%EC%96%B4%20%20vs%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%20%EC%96%B8%EC%96%B4.md)
 
 
 ---
